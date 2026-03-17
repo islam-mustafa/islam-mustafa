@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**EslamElgamel/EslamElgamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EslamMostafa/EslamMostafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
@@ -73,7 +73,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EslamElgamel&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=islam-mustafa&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
 <br>
 
